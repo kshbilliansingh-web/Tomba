@@ -1,6 +1,6 @@
 
 ## 🛠️ Technologies Used
-- Language: _Add here_
+- Language: _Simple_
 - Tools/Frameworks: _Add here_
 
 ## 📖 How to Use
